@@ -1,0 +1,89 @@
+
+.fc-day-grid-event{
+    border: none !important;
+    background-color: transparent !important;
+}
+.fc-widget-header{
+    background-color: #3e4b5b !important;
+    color: white;
+}
+
+.fc td, .fc th {
+    padding-right: 30px !important;
+    padding-left: 15px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+.fc-widget-content {
+    height: auto !important;
+    /* background-color: #98A2B0 !important; */
+    background-color: #b6b2ad !important;
+    width: auto !important;
+    font-weight: bold;
+}
+ .fc-agendaWeek-button {
+    display: none;
+}
+
+.fc-agendaDay-button {
+    display: none;
+}
+
+.fc-content {
+    /* background-color: #18151E;
+    padding: 5px;
+    color: white;
+    width: 100% !important;
+    margin-top: -25px; */
+    background-color: #e9ecef;
+    padding: 6px;
+    color: black;
+    width: 100% !important;
+    margin-top: -25px;
+    border-radius: 50px;
+    font-weight: 600;
+}
+tbody .fc td {
+    padding: 10px 16px !important;
+    text-align: center !important;
+    width: auto;
+}
+.fc-unthemed .fc-today {
+    /* background: #aaa2a2 !important; */
+    background: #62666a !important;
+    position: relative;
+    color: white;
+}
+
+.fc-view-container {
+    border: 4px ridge beige;
+}
+
+.fc-month-button {
+    background-color: #18151E !important;
+    border: 2px ridge white !important;
+    border-radius: 5px !important;
+    color: white !important;
+}
+
+.fc-today-button.fc-button.fc-state-default.fc-corner-left.fc-corner-right {
+    border: 1px solid black;
+    color: black;
+}
+.fc-day-number.fc-other-month {
+	opacity: 0.2;
+	filter: opacity(0.5);
+}
+
+
+.fc th {
+    padding: 13px 11px 10px 8px !important;
+}
+
+tbody .fc td {
+    padding: 10px 16px !important;
+    text-align: center !important;
+    width: auto;
+}
+
