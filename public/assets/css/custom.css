@@ -61,14 +61,14 @@
     }
 
     .content {
-        height: 595px !important;
+        height: 838px !important;
     }
 
     .sidebar {
-        height: 547px;
+        height: 789px;
         overflow: auto;
         margin-left: -14px;
-        width: 245px;
+        /* width: 245px; */
     }
 
     .scrollbar-primary {

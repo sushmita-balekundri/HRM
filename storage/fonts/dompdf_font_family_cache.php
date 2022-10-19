@@ -80,4 +80,7 @@
   'nunito' => array(
     'normal' => $fontDir . '/nunito-normal_176125b1b6dc4704cbf0390040859779',
   ),
+  'glyphicons halflings' => array(
+    'normal' => $fontDir . '/glyphicons-halflings-normal_c47afe5539ba1b2094563d54dce2def7',
+  ),
 ) ?>
